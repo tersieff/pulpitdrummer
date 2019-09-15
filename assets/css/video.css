@@ -51,7 +51,7 @@ header .overlay {
 */
 
 header {
-	background: url('../../images/james-drumming-still-silhouette.jpg') black no-repeat center center scroll;
+	background: url('../../images/james-drumming-still-firstframe.jpg') black no-repeat center center scroll;
 }
 .pulpit-center img {
 	max-width: 540px;
@@ -63,10 +63,13 @@ header {
 	letter-spacing: .1em;
 	font-size: .7em;
 	font-family: 'Manjari', sans-serif;
-	font-weight: 800;
+	font-weight: 700;
 	cursor: hand;
 }
 .pulpit-center a:hover {
 	text-decoration: none;
 	color: #ff8861;
+}
+.modal-dialog {
+	font-family: 'Manjari', sans-serif;	
 }
